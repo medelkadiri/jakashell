@@ -1,0 +1,20 @@
+# Prerequisites
+build/
+bin/
+
+# Compiled Object files
+*.o
+*.obj
+*.a
+*.so
+
+# Editor / Tool specific
+.vscode/
+.cache/
+*.swp
+tags
+compile_commands.json
+
+# Local Binary
+jakashell
+
